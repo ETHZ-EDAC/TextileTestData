@@ -58,6 +58,6 @@ If you use this dataset, please cite:
 
 ## License
 
-This dataset is licensed in accordance with the accompanying publication under:
+This dataset is licensed under CC BY 4.0.
 
-Creative Commons Attribution 4.0 International (CC BY 4.0)
+The associated publication may be subject to a different license.
